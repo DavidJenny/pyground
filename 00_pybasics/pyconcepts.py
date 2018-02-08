@@ -19,3 +19,5 @@ print (keyword.kwlist)
 
 # example on json module
 import json
+
+#example on exception handling in python
